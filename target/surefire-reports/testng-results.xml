@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-03T15:18:15Z" name="Suite" finished-at="2021-01-03T15:18:15Z" duration-ms="38">
+    <groups>
+    </groups>
+    <test started-at="2021-01-03T15:18:15Z" name="Test" finished-at="2021-01-03T15:18:15Z" duration-ms="38">
+      <class name="jobpracticetest.Mavendemotest.SeleniumTest">
+        <test-method signature="seleniumTest()[pri:0, instance:jobpracticetest.Mavendemotest.SeleniumTest@17497425]" started-at="2021-01-03T20:48:15Z" name="seleniumTest" finished-at="2021-01-03T20:48:15Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+        <test-method signature="seleniumbrowser()[pri:0, instance:jobpracticetest.Mavendemotest.SeleniumTest@17497425]" started-at="2021-01-03T20:48:15Z" name="seleniumbrowser" finished-at="2021-01-03T20:48:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumbrowser -->
+      </class> <!-- jobpracticetest.Mavendemotest.SeleniumTest -->
+      <class name="jobpracticetest.Mavendemotest.RestAPITest">
+        <test-method signature="RestAPIbrowser()[pri:0, instance:jobpracticetest.Mavendemotest.RestAPITest@2ea41516]" started-at="2021-01-03T20:48:15Z" name="RestAPIbrowser" finished-at="2021-01-03T20:48:15Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIbrowser -->
+        <test-method signature="RestAPItest()[pri:0, instance:jobpracticetest.Mavendemotest.RestAPITest@2ea41516]" started-at="2021-01-03T20:48:15Z" name="RestAPItest" finished-at="2021-01-03T20:48:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPItest -->
+      </class> <!-- jobpracticetest.Mavendemotest.RestAPITest -->
+      <class name="jobpracticetest.Mavendemotest.AppiumTest">
+        <test-method signature="Appiumbrowser()[pri:0, instance:jobpracticetest.Mavendemotest.AppiumTest@f0da945]" started-at="2021-01-03T20:48:15Z" name="Appiumbrowser" finished-at="2021-01-03T20:48:15Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumbrowser -->
+        <test-method signature="Appiumtest()[pri:0, instance:jobpracticetest.Mavendemotest.AppiumTest@f0da945]" started-at="2021-01-03T20:48:15Z" name="Appiumtest" finished-at="2021-01-03T20:48:15Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumtest -->
+      </class> <!-- jobpracticetest.Mavendemotest.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
